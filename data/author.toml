@@ -1,0 +1,13 @@
+name = "Dustin"
+
+greeting = " Hi  there, I'm"
+
+summary = [
+    "I am a Developer.",
+    " I work with Python and JavaScript.",
+    "I am currently learning Go.",
+    " In my free time I make Maps.",
+    "I am a Cyclist"
+]
+
+description  = "Dustin Turpin's Portfolio, Resume"

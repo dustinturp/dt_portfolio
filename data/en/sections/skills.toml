@@ -1,0 +1,38 @@
+[section]
+name = "Skills"
+id = "skills"
+enable = true
+weight = 2
+showOnNavbar = true
+template = "sections/skills.html"
+
+
+[[skills]]
+name = "Python"
+icon = "images/skills/kubernetes.png"
+summary = "Caperienced in writing."
+
+[[skills]]
+name = "Go Development"
+icon = "images/skills/go.png"
+summary = "Using as the main l"
+
+[[skills]]
+name = "JavaScript"
+icon = "images/skills/go.png"
+summary = "Using as the main l"
+
+[[skills]]
+name = "Git"
+icon = "images/skills/go.png"
+summary = "Using as the main l"
+
+[[skills]]
+name = "MacOS"
+icon = "images/skills/go.png"
+summary = "Using as the main l"
+
+[[skills]]
+name = "Linux"
+icon = "images/skills/go.png"
+summary = "Using as the main l"

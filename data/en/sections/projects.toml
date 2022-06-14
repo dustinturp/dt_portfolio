@@ -1,0 +1,104 @@
+[section]
+name = "Projects"
+id = "projects"
+enable = true
+weight = 3
+showOnNavbar = true
+template = "sections/projects.html"
+
+[[buttons]]
+name = "All"
+filter = "all"
+
+[[buttons]]
+name = "Professional"
+filter = "professional"
+
+[[buttons]]
+name = "Academic"
+filter = "academic"
+
+[[buttons]]
+name = "Hobby"
+filter = "hobby"
+
+[[buttons]]
+name = "Python"
+filter = "Python"
+
+[[buttons]]
+name = "Java Script"
+filter = "Java Script"
+
+[[buttons]]
+name = "GIS"
+filter = "GIS"
+
+[[projects]]
+name = "ESRI Implementation"
+logo = "images/projects/kubernetes.png"
+role = "Architect"
+timeline = "September 2021 - Present"
+
+summary = "Implementing ESRI Things.Teaching Inspectors to use Apps."
+tags = [ "professional", "GIS", "cloud" ]
+
+
+[[projects]]
+name = "Database Production"
+logo = "images/projects/kubernetes.png"
+role = "Architect"
+timeline = "March 2018 - Present"
+repo = "https://github.com/kubernetes/kubernetes"
+summary = "Automating data cleaning and archiving. Creating Cloud workflows."
+tags = [ "professional", "Python", "cloud" ]
+
+
+[[projects]]
+name = "SLMPD Data Aggregation"
+logo = "images/projects/kubernetes.png"
+role = "Contributor"
+timeline = "March 2018 - Present"
+repo = "https://github.com/dustinturp/STLCallsToService"
+summary = "Production-Grade Container Scheduling and Management ."
+tags = [ "hobby", "python" ]
+
+
+[[projects]]
+name = "Independant School Project"
+logo = "images/projects/kubernetes.png"
+role = "Contributor"
+timeline = "March 2021 - Present"
+repo = "https://github.com/kubernetes/kubernetes"
+summary = "Production-Grade Container Scheduling and Management ."
+tags = [ "professional", "kubernetes", "cloud" ]
+
+[[projects]]
+name = "School Project React"
+logo = "images/projects/kubernetes.png"
+role = "Team Member"
+timeline = "January 2022"
+repo = "https://github.com/kubernetes/kubernetes"
+summary = "React based recipe site."
+tags = [ "academic", "Java Script", "cloud" ]
+
+
+[[projects]]
+name = "Landmarks Survey Dashboard"
+logo = "images/projects/kubernetes.png"
+role = "Architect"
+timeline = "October 2017 - March 2018"
+repo = "http://landmarks.geostl.org/"
+summary = "Historic building survey. Collected data on 155 properties in 2 hours."
+tags = [ "professional", "Java Script", "cloud", "GIS"]
+
+
+[[projects]]
+name = "CWTI Map Generation"
+logo = "images/projects/kubernetes.png"
+role = "Contributor"
+timeline = "October 2018 - March 2019"
+repo = "https://www.cwtinstitute.org/"
+summary = "Rapid response maps for rangers in the field preventing poaching."
+tags = [ "professional", "Python", "cloud", "GIS"]
+

@@ -1,0 +1,65 @@
+designation = "Full Stack Developer"
+summary = "I am a passionate Full Stack Developer with a spatial set of skills."
+
+[section]
+name = "About"
+id = "about"
+enable = true
+weight = 1
+showOnNavbar = true
+template = "sections/about.html"
+
+
+
+[company]
+name = "Trident Industries"
+url = "https://www.github.com/dustinturp"
+
+[[socialLinks]]
+name = "GitHub"
+icon = "fab fa-github"
+url = "https://www.github.com/dustinturp"
+
+[[socialLinks]]
+name = "Twitter"
+icon = "fab fa-twitter"
+url = "https://www.github.com/dustinturp"
+
+[[socialLinks]]
+name = "LinkedIn"
+icon = "fab fa-linkedin"
+url = "https://www.github.com/dustinturp"
+
+
+[[badges]]
+type = "certification"
+name = "Certified Full Stack Developer"
+url = "https://www.credly.com/badges/cc6fafe6-8731-4c2c-b836-c870ac673433/public_url"
+badge = "https://images.credly.com/size/220x220/images/8491423c-a981-42cf-8251-ed1939d9462a/Badge12_Lv3_coding_01aa--3.png"
+
+
+
+[[badges]]
+type = "soft-skill-indicator"
+  name = "Leadership"
+  percentage = 85
+  color = "blue"
+
+
+[[badges]]
+type = "soft-skill-indicator"
+  name = "Leadership"
+  percentage = 85
+  color = "green"
+
+[[badges]]
+type = "soft-skill-indicator"
+  name = "Leadership"
+  percentage = 85
+  color = "orange"
+
+[[badges]]
+type = "soft-skill-indicator"
+  name = "Leadership"
+   percentage =  90
+  color =  "yellow"
