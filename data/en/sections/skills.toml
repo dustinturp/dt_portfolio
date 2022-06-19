@@ -9,30 +9,30 @@ template = "sections/skills.html"
 
 [[skills]]
 name = "Python"
-icon = "images/skills/kubernetes.png"
-summary = "Caperienced in writing."
-
-[[skills]]
-name = "Go Development"
-icon = "images/skills/go.png"
-summary = "Using as the main l"
+icon = "/images/skills/kubernetes.png"
+summary = "Geographical data science transformations. Build data pipline infrastructure for users in the field"
 
 [[skills]]
 name = "JavaScript"
-icon = "images/skills/go.png"
-summary = "Using as the main l"
+icon = "/images/skills/go.png"
+summary = "Working with applications to get data to the database. Writing functions to extract data."
+
+[[skills]]
+name = "Go Development"
+icon = "/images/skills/go.png"
+summary = "Exploring the capabilities of Golang."
 
 [[skills]]
 name = "Git"
-icon = "images/skills/go.png"
-summary = "Using as the main l"
+icon = "/images/sections/skills/git.png"
+summary = "The backbone of the operation. For work and peresonal."
 
 [[skills]]
 name = "MacOS"
-icon = "images/skills/go.png"
-summary = "Using as the main l"
+icon = "/images/skills/go.png"
+summary = "My portable machine,"
 
 [[skills]]
-name = "Linux"
+name = "Linux-Ubuntu"
 icon = "images/skills/go.png"
-summary = "Using as the main l"
+summary = "My gaming and video editing machine."
