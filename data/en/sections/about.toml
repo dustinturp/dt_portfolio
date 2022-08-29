@@ -1,8 +1,9 @@
 designation = "Full Stack Developer"
 summary =  """I am a passionate Full Stack Developer with a spatial set of skills. 
-My background is in GIS, python, and SQL. 
-I have full stack development certification from Washington University 
-building skills in Agile methodiligy, client server model, JavaScript, JQuery, MySQL, React and more."""
+My background is in GIS (Geographical Information Systems), python, and SQL. 
+I have full stack development certification from Washington University building
+skills in Agile methodiligy,
+client server model, JavaScript, JQuery, MySQL, React and more."""
 
 [section]
 name = "About"
@@ -44,7 +45,7 @@ badge = "https://images.credly.com/size/220x220/images/8491423c-a981-42cf-8251-e
 
 [[badges]]
 type = "soft-skill-indicator"
-  name = "Geographical Information Systems"
+  name = "GIS"
   percentage = 85
   color = "blue"
 
@@ -57,6 +58,6 @@ type = "soft-skill-indicator"
 
 [[badges]]
 type = "soft-skill-indicator"
-  name = "Agile Development"
-  percentage = 95
+  name = "Agile"
+  percentage = 90
   color = "orange"

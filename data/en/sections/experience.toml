@@ -10,13 +10,14 @@ showOnNavbar = true
 name = "Trident Industries"
 url = "https://www.example.com"
 location = "St Louis, MO"
-overview = "Trident Industies provides construction managment for utility companies."
+overview = "Trident Industies provides construction managment services for utility companies."
 
 [[experiences.positions]]
-designation = "Senior Software Engineer"
+designation = "GIS Software Engineer"
 start = "Sep 2021"
 responsibilities = [
   "Design and develop CMS",
+  "Data pipeline automation utilizing hybrid cloud envionments",
   "Develop and manage ESRI Spatial software implementation",
   "Lead developement team."
 ]
@@ -26,7 +27,7 @@ responsibilities = [
 name = "Hexagon US Federal"
 url = "https://www.preexample.com"
 location = "St Louis, MO (remote)"
-overview = "PreExample Co. is a gateway company to enter into Example co. So, nothing special here."
+overview = "Deployed GIS database for multiple editors ."
 
 [[experiences.positions]]
 designation = "Systems Engineer"
@@ -40,9 +41,9 @@ responsibilities = [
 
 [[experiences]]
 [experiences.company]
-name = "Boundless Spatial Inc"
-url = "https://www.preexample.com"
-location = "St Louis, MO (remote)"
+name = "Boundless Spatial Inc (Planet Labs)"
+url = "https://www.planet.com/pulse/planet-to-acquire-boundless/"
+location = "St Louis, MO (Remote)"
 overview = "Boundless provided open source geospatial software support for Federal and NGOs."
 
 [[experiences.positions]]

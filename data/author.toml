@@ -4,10 +4,10 @@ greeting = " Hi  there, I'm"
 
 summary = [
     "I am a Developer.",
-    " I work with Python and JavaScript.",
+    " I work with Python, JavaScript, and SQL.",
     "I am currently learning Go.",
     " In my free time I make Maps.",
-    "I am a Cyclist"
+    "I am a Cyclist."
 ]
 
 description  = "Dustin Turpin's Portfolio, Resume"

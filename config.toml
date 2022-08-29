@@ -1,5 +1,11 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = "Dustin Turpin's Portfolio"
-
 theme = "toha"
+[darkMode]
+enable = true
+provider = "darkreader"
+default = "system"
+[newsletter]
+enable = false
+provider = "mailchimp"
