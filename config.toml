@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://dustinturp.github.io/dt_portfolio/'
 languageCode = 'en-us'
 title = "Dustin Turpin's Portfolio"
 theme = "toha"
@@ -8,4 +8,5 @@ provider = "darkreader"
 default = "system"
 [newsletter]
 enable = false
-provider = "mailchimp"
+[analytics]
+enabled = false
