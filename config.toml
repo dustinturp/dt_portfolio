@@ -1,4 +1,4 @@
-baseURL = "https://dustinturp.github.io/dt_portfolio/"
+baseURL = "https://dustinturp.github.io"
 languageCode = "en-us"
 title = "Dustin Turpin's Portfolio"
 theme = "toha"
