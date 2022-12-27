@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://<USERNAME>.github.io/<REPOSITORY_NAME>'
 languageCode = 'en-us'
 title = "Dustin Turpin's Portfolio"
 theme = "toha"
