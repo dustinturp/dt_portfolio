@@ -1,12 +1,19 @@
-baseURL = 'https://dustinturp.github.io/dt_portfolio/'
-languageCode = 'en-us'
+baseURL = "https://dustinturp.github.io/dt_portfolio/"
+languageCode = "en-us"
 title = "Dustin Turpin's Portfolio"
 theme = "toha"
 [darkMode]
 enable = true
 provider = "darkreader"
 default = "system"
-[newsletter]
-enable = false
-[analytics]
-enabled = false
+[params]
+gitRepo = "https://github.com/dustinturp/dt_portfolio"
+gitBranch = "main"
+enableBlogPost = true
+enableTOC = true
+showFlags = true
+
+  [params.newsletter]
+  enable = true
+  [params.analytics]
+  enabled = false
